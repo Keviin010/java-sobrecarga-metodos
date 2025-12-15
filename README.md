@@ -25,6 +25,6 @@ Proyecto realizado como parte del aprendizaje en Java.
 Proyecto desarrollado por Kevin como parte de su proceso de aprendizaje en Java.
 
 ## Estado del proyecto
-Proyecto básico finalizado. Se continuará ampliando con nuevos ejemplos.
+Proyecto básico finalizado.
 
 
