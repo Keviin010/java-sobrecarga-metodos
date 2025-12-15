@@ -21,3 +21,10 @@ Proyecto básico en Java que demuestra el uso de sobrecarga de métodos y vararg
 
 Proyecto realizado como parte del aprendizaje en Java.
 
+## Autor
+Proyecto desarrollado por Kevin como parte de su proceso de aprendizaje en Java.
+
+## Estado del proyecto
+Proyecto básico finalizado. Se continuará ampliando con nuevos ejemplos.
+
+
