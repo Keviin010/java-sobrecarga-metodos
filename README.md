@@ -1,6 +1,6 @@
 # Java Calculadora - Sobrecarga de Métodos
 
-Proyecto básico en Java que demuestra el uso de sobrecarga de métodos y varargs.
+Proyecto introductorio en Java enfocado en la sobrecarga de métodos y el uso de varargs.
 
 ## Contenido
 
